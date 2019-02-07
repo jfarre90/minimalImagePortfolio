@@ -1,0 +1,30 @@
+/*div {
+	width: 100px;
+	float: left;
+}
+
+#one {
+	background: green;
+}
+
+#two {
+	background-color: red;
+}*/
+
+img {
+	width: 30%;
+	float: left;
+	margin: 1.66%; /*this is the remaining 10 % (each picture takes 30% as per the width) divided by the amount of margins in the pictures, which is 6*/
+}
+
+
+h1 {
+	margin-left: 1.66%;
+	font-size: 30px;
+	font-family: 'Indie Flower', cursive;
+	font-weight: 800;
+	text-transform: uppercase;
+	border-bottom: 3px solid #f1f1f1;
+	width: 30%;
+	padding-bottom: 20px
+}
